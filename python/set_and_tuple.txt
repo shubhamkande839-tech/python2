@@ -1,0 +1,24 @@
+set 
+sets are mutable 
+sets are created by square brackets []
+elements can be change, add or remove
+more memory 
+execution is slower 
+
+my_list = [10,20,30]
+my_list[1] = 50
+print(my_list)                      output-- 
+                                            my_list = [10,50,30]
+
+tuples  
+tuples are unmutable
+tuples are created by parenthesis
+elements cant be change after creation
+low memory
+execution is faster
+
+my_tuple = (10,20,30)
+my_tuple[1] = 20
+print(my_tuple)                     output--
+                                            error
+
